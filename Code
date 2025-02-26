@@ -1,6 +1,1 @@
-$ git config --global user.name "XinYu Dong"
-$ git config --global user.email ibaiyujingi@gmail.com
 
-git clone https://github.com/IBaiYuJingI/COT2000-Repo.git
-
-cd COT2000-Repo
